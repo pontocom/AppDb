@@ -1,0 +1,7 @@
+#Thu Mar 09 15:19:34 WET 2017
+base.0=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c5cb04ffa2c032f653b0eacf2817d0b85b5162d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e62004735617e5c59dba4f3e94343bdb179d337/classes.dex
+base.1=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e62004735617e5c59dba4f3e94343bdb179d337
+file.0=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c5cb04ffa2c032f653b0eacf2817d0b85b5162d/classes.dex

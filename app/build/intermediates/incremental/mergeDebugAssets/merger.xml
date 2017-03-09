@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/cserrao/AndroidStudioProjects/appdb_as/app/src/main/assets"><file name="testedb" path="/Users/cserrao/AndroidStudioProjects/appdb_as/app/src/main/assets/testedb"/></source><source path="/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/cserrao/AndroidStudioProjects/appdb_as/app/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,4 @@
+#Thu Mar 09 15:19:34 WET 2017
+base.0=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_84d2c886f9a9a33d99815ff31303624c8e5e183a
+renamed.0=classes.dex
+file.0=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_84d2c886f9a9a33d99815ff31303624c8e5e183a/classes.dex

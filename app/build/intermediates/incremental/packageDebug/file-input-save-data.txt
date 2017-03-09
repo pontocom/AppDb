@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Mar 09 15:19:34 WET 2017
+2.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/assets/debug
+5.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e62004735617e5c59dba4f3e94343bdb179d337/classes.dex
+5.set=DEX
+3.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+2.set=ASSET
+4.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c5cb04ffa2c032f653b0eacf2817d0b85b5162d/classes.dex
+5.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5e62004735617e5c59dba4f3e94343bdb179d337
+8.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/menu-v11/activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/assets/debug/testedb
+6.set=ANDROID_RESOURCE
+0.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c5cb04ffa2c032f653b0eacf2817d0b85b5162d
+8.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=DEX

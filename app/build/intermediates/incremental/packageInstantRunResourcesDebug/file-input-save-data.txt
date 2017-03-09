@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Mar 09 15:19:30 WET 2017
+2.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/menu-v11/activity_main.xml
+5.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/assets/debug/testedb
+1.set=ASSET
+2.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/assets/debug
+4.file=/Users/cserrao/AndroidStudioProjects/appdb_as/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE
